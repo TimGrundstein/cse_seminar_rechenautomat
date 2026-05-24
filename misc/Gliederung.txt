@@ -22,5 +22,5 @@
 	- Beschreibung, wie anhand dieser physikalischen Simulation ein echter Automat konstruiert und realisiert werden kann.
 	- Nutzung der simulierten Parameter (gekoppelte Ziffernzustände und Winkelstellungen) zur Erstellung eines Geometriemoduls oder für den 3D-Druck der realen Maschine.
 7. Fazit und Ausblick
-	-Zusammenfassung/Bewertung, inwieweit die Konstruktion des Rechenautomaten in Simulink funktioniert hat.
+	- Zusammenfassung/Bewertung, inwieweit die Konstruktion des Rechenautomaten in Simulink funktioniert hat.
 	- Ausblick auf die anstehende Fertigung des physischen Automaten und mögliche Vergleiche mit moderneren Rechensystemen.
